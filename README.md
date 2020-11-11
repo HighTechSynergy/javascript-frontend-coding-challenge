@@ -1,7 +1,7 @@
 # High-Tech Synergy Frontend Take-home Exercise
 
 Hi there! Here is a coding exercise to help us assess your technical skills.
-Please plan to spend no more than 8 hours on this. We understand we may not be
+Please plan to spend no more than 4 hours on this. We understand we may not be
 the only company asking for an exercise from you and want to be respectful of
 your time. We recommend you focus on the core
 requirements first, then work on any additional features if you have the time.
